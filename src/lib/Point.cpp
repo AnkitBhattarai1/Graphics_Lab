@@ -1,5 +1,3 @@
-
-
 #include "../../include/lib/Point.h"
 
 Point2DPtr new_point(int x1, int y1){
